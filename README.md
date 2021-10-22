@@ -1,0 +1,5 @@
+- Fahad Bakoor, a Data science and analytics student at the University of Jeddah
+- I would love to use my passion for learning and exploring data to help make important decisions and find business solutions. 
+- I'm extremely interested in machine learning and currently learning how to do modules using scikit-learn and Tensorflow
+- Skills: Python, SQL, Tableau, Excel, Git.
+- linkedin: www.linkedin.com/in/fahadbakoor
